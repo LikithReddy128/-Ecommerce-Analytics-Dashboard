@@ -3,7 +3,7 @@ Ecommerce Excel Dashboard
 > An interactive Excel dashboard that turns 2,400 raw ecommerce orders (California, Q1 2025) into answers about sales trends, customer buying behaviour, product popularity, delivery speed and customer satisfaction.
 
 ![Excel](https://github.com/LikithReddy128/-Ecommerce-Analytics-Dashboard/blob/main/ecommerce-blank%20excel%20project.xlsx)
-![Pivot Tables](https://img.shields.io/badge/Technique-PivotTables%20%26%20Slicers-blue)
+![Pivot Tables](https://github.com/LikithReddy128/-Ecommerce-Analytics-Dashboard/blob/main/ecommerce-blank%20dataset.xlsx)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
