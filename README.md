@@ -7,7 +7,7 @@ Ecommerce Excel Dashboard
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
-
+https://github.com/LikithReddy128/-Ecommerce-Analytics-Dashboard/blob/main/Screenshot%202026-10-08%20114736.png
 ## 📌 Table of Contents
 1. [Project Overview](#-project-overview)
 2. [Repository Structure](#-repository-structure)
